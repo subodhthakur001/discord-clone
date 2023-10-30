@@ -4,8 +4,7 @@ import {Button} from "@/components/ui/button"; // Make sure to import Button cor
 export default function Home() {
   return (
     <div>
-      <p className="text-3xl font-bold text-indigo-500">Hello Discord Users !!</p>
-      <Button variant="subodh">Click me </Button>
+      <p>This is a protected route.....</p>
     </div>
   );
 }
